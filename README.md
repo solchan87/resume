@@ -18,7 +18,7 @@
 
 [팝콘파이브](http://www.popcorn5.com/#/)
 
-- iOS Developer (2015.09 ~ 2016.9)
+- Backend Developer (2015.09 ~ 2016.9)
 
 
 
