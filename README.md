@@ -71,7 +71,7 @@
 400만 유저가 선택한 대한민국 대표 푸드 플랫폼
 
 - 기간 : 2019.03 ~ 
-- 역활 : iOS 개발
+- 역할 : iOS 개발
 - 사용기술 : Swift, RxSwift, ReactorKit, RxFlow, Swiftlint SwiftUI
 - AppStore : https://itunes.apple.com/kr/app/id1090371750?mt=8
 
@@ -86,7 +86,7 @@
 복지몰 고객들을 위한 영업관리 솔루션
 
 - 기간 : 2018.11 ~ 2018.12
-- 역활 : iOS 개발
+- 역할 : iOS 개발
 - 사용기술 : Swift, RxSwift, ReactorKit
 
 <img src="images/edanbi.png" width="850"/> 
@@ -96,7 +96,7 @@
 영업사원과 고객의 매칭을 위한 솔루션
 
 - 기간 : 2018.12 ~ 2019.01
-- 역활 : iOS 개발
+- 역 : iOS 개발
 - 사용기술 : Swift, RxSwift, ReactorKit
 
 <img src="images/membera.png" width="850"/> 
